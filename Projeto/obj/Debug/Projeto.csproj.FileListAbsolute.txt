@@ -1,0 +1,29 @@
+C:\Users\enio\Desktop\IA\projeto\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\enio\Desktop\IA\projeto\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\enio\Desktop\IA\projeto\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\enio\Desktop\IA\projeto\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\enio\Desktop\IA\projeto\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\enio\Desktop\IA\projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.Cache
+C:\Users\enio\Desktop\IA\projeto\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\enio\Desktop\IA\projeto\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\enio\Desktop\IA\projeto\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\enio\Desktop\IA\Projeto classifica laranja\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\enio\Desktop\IA\Projeto classifica laranja\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\enio\Desktop\IA\Projeto classifica laranja\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\enio\Desktop\IA\Projeto classifica laranja\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\enio\Desktop\IA\Projeto classifica laranja\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\enio\Desktop\IA\Projeto classifica laranja\Projeto\Projeto\obj\Debug\Projeto.Form2.resources
+C:\Users\enio\Desktop\IA\Projeto classifica laranja\Projeto\Projeto\obj\Debug\Projeto.Form3.resources
+C:\Users\enio\Desktop\IA\Projeto classifica laranja\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\enio\Desktop\IA\Projeto classifica laranja\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.Cache
+C:\Users\enio\Desktop\IA\Projeto classifica laranja\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\enio\Desktop\IA\Projeto classifica laranja\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\enio\Desktop\2016\IA\Projeto classifica laranja\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\enio\Desktop\2016\IA\Projeto classifica laranja\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\enio\Desktop\2016\IA\Projeto classifica laranja\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\enio\Desktop\2016\IA\Projeto classifica laranja\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\enio\Desktop\2016\IA\Projeto classifica laranja\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\enio\Desktop\2016\IA\Projeto classifica laranja\Projeto\Projeto\obj\Debug\Projeto.Form2.resources
+C:\Users\enio\Desktop\2016\IA\Projeto classifica laranja\Projeto\Projeto\obj\Debug\Projeto.Form3.resources
+C:\Users\enio\Desktop\2016\IA\Projeto classifica laranja\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\enio\Desktop\2016\IA\Projeto classifica laranja\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.Cache
